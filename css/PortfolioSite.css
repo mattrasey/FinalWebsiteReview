@@ -1,0 +1,646 @@
+body{
+	margin: 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#102754+1,1e5799+55,2989d8+100 */
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b5bdc8+0,828c95+36,28343b+100;Grey+Black+3D */
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#28343b+0,828c95+64,b5bdc8+100 */
+background: rgb(40,52,59); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(40,52,59,1) 0%, rgba(130,140,149,1) 64%, rgba(181,189,200,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(40,52,59,1) 0%,rgba(130,140,149,1) 64%,rgba(181,189,200,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(40,52,59,1) 0%,rgba(130,140,149,1) 64%,rgba(181,189,200,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28343b', endColorstr='#b5bdc8',GradientType=0 ); /* IE6-9 */
+}
+
+#bodyContents{
+	width:1100px;
+	margin:0 auto;
+	overflow-y: hidden;
+}
+
+#bodyContentsMyWork{
+	width:1100px;
+	margin:0 auto;
+	overflow-y: hidden;
+}
+
+#bodyContentsMyWork h1{
+	color:#3f5382;
+	font-family: 'Oxygen', sans-serif;
+	font-size:36px;
+	padding-top:30px;
+	margin-left:42%;
+}
+
+#Logo{
+	float:left;
+	position:relative;
+	display:inline-block;
+	float:left;
+	padding-left:20.5%;
+	padding-top:20px;
+	width:100px;
+	margin-bottom:50px;
+	float:left;
+}
+nav{
+	display:inline-block;
+	padding-top:60px;
+}
+
+/* Link Colors */
+nav a:link {
+    color:white;
+    text-decoration:none;
+}
+
+/* visited link */
+nav a:visited {
+    color:white;
+}
+
+/* mouse over link */
+nav a:hover {
+    color:#7872fa;
+}
+
+nav ul li{
+	display:inline;
+	padding-left:36px;
+	font-family:'Verdana', sans-serif;
+	color:white;
+	font-size:24px;
+}
+
+/* Home Page CSS Starts Here */
+
+iframe{
+	clear:both;
+	margin-left:6.5%;
+}
+
+h1{
+	color:#a2b8eb;
+	font-family: 'Verdana', sans-serif;
+	font-size:36px;
+	margin-left:43%;
+}
+
+#Logo{
+	color:#3f5382;
+	font-family: 'Verdana', sans-serif;
+	font-size:36px;
+	padding-bottom:7%;
+}
+
+#Logo h2{
+	color:white;
+}
+
+.TitlesForOther h2{
+	color:#3f5382;
+	font-family: 'Verdana', sans-serif;
+	font-size:16px;
+	padding-top:0px;
+	margin-top:0px;
+}
+
+#AboutMe{
+	padding-top:20px;
+	font-family: 'Verdana', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+	padding-bottom:50px;
+}
+
+#AboutMe img{
+	float:left;
+	padding-top:20px;
+	padding-left:5%;
+	width:36%;
+}
+
+#AboutMe p{
+	text-indent:50px;
+	display:inline-block;
+}
+
+#BottomLinks{
+	clear:both;
+	padding-bottom:22%;
+}
+
+#BottomLinks p{
+	color:white;
+	font-family: 'Verdana', sans-serif;
+	font-size:18px;
+	text-align:center;
+}
+
+#BottomLinks a:link {
+    color:#ca6f6f;
+    text-decoration:none;
+}
+
+/* visited link */
+#BottomLinks a:visited {
+    color:#ca6f6f;
+}
+
+/* mouse over link */
+#BottomLinks a:hover {
+    color:#ca6f6f;
+}
+
+#Buttons{
+	margin-left:36.5%;
+	margin-bottom:50px;
+}
+
+.ButtonPadding{
+	padding-left:8px;
+}
+
+/* My Work Page CSS Starts Here */
+
+.Effect{
+	width:220px;
+	margin-left:35px;
+}
+
+.Effect2{
+	width:220px;
+	float:left;
+	margin-left:50px;
+	padding-bottom:50px;
+}
+
+.Effect3{
+	width:220px;
+	float:left;
+	margin-left:50px;
+	padding-bottom:50px;
+}
+
+.Effect4{
+	width:220px;
+	float:left;
+	margin-left:50px;
+	padding-bottom:50px;
+}
+
+.clearfix{
+	clear:both;
+}
+
+
+/* My Resume Page CSS Starts Here */
+
+#Resume{
+	margin-top:50px;
+	background-color:rgba(0,0,0,0.3);
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	color:white;
+}
+
+#Resume a:link {
+    color:white;
+    text-decoration:none;
+}
+
+/* visited link */
+#Resume a:visited {
+    color:white;
+}
+
+/* mouse over link */
+#Resume a:hover {
+    color:#497ae9;
+}
+
+#Resume ul{
+	list-style-type: none;
+	padding-left:0px;
+	font-family: Arial, sans-serif;
+}
+
+
+#Resume h2{
+	color:#a2b8eb;
+	font-family: 'Oxygen', sans-serif;
+	font-size:36px;
+	margin-top:0px;
+	margin-left:0px;
+	padding-top:0px;
+}
+
+#Resume h3{
+	color:#a2b8eb;
+	font-family: 'Oxygen', sans-serif;
+	font-size:22px;
+}
+
+#Resume h4{
+	font-family: Arial, sans-serif;
+	font-size:16px;
+}
+
+#Resume h5{
+	font-family: Arial, sans-serif;
+	font-size:12px;
+}
+
+#Resume p{
+	font-family: Arial, sans-serif;
+	padding-top:5px;
+}
+
+#Resume li{
+	padding-top:2px;
+	padding-left: 30px;
+}
+
+.indent{
+	padding-left:10px;
+}
+
+/* Extra CSS for hyperlinked pages */
+
+#LowPoly{
+	margin-left:8%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#LowPoly p{
+	width:93%;
+	padding-bottom:50px;
+}
+
+#Asylum{
+	margin-left:3%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#Aslyum p{
+	width:93%;
+	padding-bottom:50px;
+}
+
+#NHLLogos{
+	margin-left:3%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#NHLLogos p{
+	width:91%;
+	padding-bottom:50px;
+}
+
+#Code{
+	margin-left:3%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#Code p{
+	width:94%;
+	padding-bottom:50px;
+}
+
+#WorkBench{
+	margin-left:5.5%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#WorkBench p{
+	width:95%;
+	padding-bottom:50px;
+}
+
+#Poster{
+	margin-top:5%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#Poster img{
+	margin-left:15%;
+}
+
+#Poster p{
+	width:93%;
+	padding-bottom:50px;
+}
+
+#Birds{
+	margin-top:2%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+	float:left;
+}
+
+#Birds img{
+	margin-left:5%;
+}
+
+#Birds p{
+	clear:both;
+	width:91%;
+	padding-bottom:50px;
+	margin-left:5%;
+}
+
+
+#Homer{
+	margin-left:6%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#Homer img{
+	margin-left:10%;
+	margin-top:5%;
+}
+
+#Homer p{
+	width:93%;
+	padding-bottom:50px;
+}
+
+#TwoWorlds{
+	margin-left:6%;
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#TwoWorlds img{
+	margin-left:1.25%;
+	margin-top:1%;
+}
+
+#TwoWorlds p{
+	width:93%;
+	padding-bottom:50px;
+}
+
+#Alien{
+	margin-left:6%;
+	padding-top:50px;
+}
+
+#Alien p{
+	font-family: 'Oxygen', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+	width:96%;
+	padding-bottom:50px;
+}
+
+.TopPadding{
+	margin-left:11.5%;
+}
+
+#Gun{
+	margin-left:2.5%;
+	font-family: 'Verdana', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+	width:97%;
+}
+
+#Car{
+	margin-left:7%;
+	font-family: 'Verdana', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+	width:86%;
+}
+
+#Gavin{
+	margin-left:11%;
+	font-family: 'Verdana', sans-serif;
+	color:#3f5382;
+	font-size:24px;
+}
+
+#GavinPictures{
+	display:inline-block;
+}
+
+#Gavin p{
+	width:87%;
+	padding-bottom:50px;
+}
+
+.Floater{
+}
+
+
+
+
+/* The below code is for the explore effect put on each piece of my work */
+.hovereffect {
+width:100%;
+height:100%;
+float:left;
+overflow:hidden;
+position:relative;
+text-align:center;
+cursor:default;
+}
+
+.hovereffect .overlay {
+width:100%;
+height:100%;
+position:absolute;
+overflow:hidden;
+top:0;
+left:0;
+opacity:0;
+background-color:rgba(0,0,0,0.5);
+-webkit-transition:all .4s ease-in-out;
+transition:all .4s ease-in-out
+}
+
+.hovereffect img {
+display:block;
+position:relative;
+-webkit-transition:all .4s linear;
+transition:all .4s linear;
+}
+
+.hovereffect h2 {
+text-transform:uppercase;
+color:#fff;
+text-align:center;
+position:relative;
+font-size:17px;
+background:rgba(0,0,0,0.6);
+-webkit-transform:translatey(-100px);
+-ms-transform:translatey(-100px);
+transform:translatey(-100px);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+padding:10px;
+}
+
+
+
+.hovereffect a.info {
+text-decoration:none;
+display:inline-block;
+text-transform:uppercase;
+color:#fff;
+border:1px solid #fff;
+background-color:transparent;
+opacity:0;
+filter:alpha(opacity=0);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+margin:50px 0 0;
+padding:7px 14px;
+}
+
+.hovereffect a.info:hover {
+box-shadow:0 0 5px #fff;
+}
+
+.hovereffect:hover img {
+-ms-transform:scale(1.2);
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+
+.hovereffect:hover .overlay {
+opacity:1;
+filter:alpha(opacity=100);
+}
+
+.hovereffect:hover h2,.hovereffect:hover a.info {
+opacity:1;
+filter:alpha(opacity=100);
+-ms-transform:translatey(0);
+-webkit-transform:translatey(0);
+transform:translatey(0);
+}
+
+.hovereffect:hover a.info {
+-webkit-transition-delay:.2s;
+transition-delay:.2s;
+}
+
+/* The below code is for the explore effect on the Other Work Section */
+.hovereffect2 {
+width:100%;
+height:100%;
+float:left;
+overflow:hidden;
+position:relative;
+text-align:center;
+cursor:default;
+}
+
+.hovereffect2 .overlay2 {
+width:100%;
+height:100%;
+position:absolute;
+overflow:hidden;
+top:0;
+left:0;
+opacity:0;
+background-color:rgba(0,0,0,0.5);
+-webkit-transition:all .4s ease-in-out;
+transition:all .4s ease-in-out
+}
+
+.hovereffect2 img {
+display:block;
+position:relative;
+-webkit-transition:all .4s linear;
+transition:all .4s linear;
+}
+
+.hovereffect2 h2 {
+text-transform:uppercase;
+color:#fff;
+text-align:center;
+position:relative;
+font-size:14px;
+background:rgba(0,0,0,0.6);
+-webkit-transform:translatey(-100px);
+-ms-transform:translatey(-100px);
+transform:translatey(-100px);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+padding:10px;
+}
+
+
+
+.hovereffect2 a.info2 {
+text-decoration:none;
+display:inline-block;
+text-transform:uppercase;
+color:#fff;
+border:1px solid #fff;
+background-color:transparent;
+opacity:0;
+filter:alpha(opacity=0);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+margin:0px;
+padding:7px 14px;
+}
+
+.hovereffect2 a.info2:hover {
+box-shadow:0 0 5px #fff;
+}
+
+.hovereffect2:hover img {
+-ms-transform:scale(1.2);
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+
+.hovereffect2:hover .overlay2 {
+opacity:1;
+filter:alpha(opacity=100);
+}
+
+.hovereffect2:hover h2,.hovereffect2:hover a.info2 {
+opacity:1;
+filter:alpha(opacity=100);
+-ms-transform:translatey(0);
+-webkit-transform:translatey(0);
+transform:translatey(0);
+}
+
+.hovereffect2:hover a.info2 {
+-webkit-transition-delay:.2s;
+transition-delay:.2s;
+}
+
+
+
+
+
+p2{
+	color:red;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Oxygen', sans-serif;
+}
+
+
